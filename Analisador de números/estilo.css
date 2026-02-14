@@ -1,0 +1,36 @@
+body {
+    font: normal 20pt Arial;
+    text-align: center;
+    background: rgb(141, 220, 223);
+    
+}
+
+section {
+    width: 800px;
+    height: auto;
+    background: white;
+    padding: 10pt;
+    box-shadow: 3px 3px 10px black;
+    border-radius: 10px;
+    margin: 40px auto;    
+}
+
+div#pt1 {
+    text-align: left;
+    
+}
+
+select#lista {
+    display: flex;
+    width: 190px;
+}
+
+main {
+    
+    margin: 40px auto;   
+    padding: 10px;
+    text-align: left;    
+    border-radius: 10px;
+    
+    
+}
